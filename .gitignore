@@ -1,0 +1,8 @@
+clv-env/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+.env
+venv/
+
