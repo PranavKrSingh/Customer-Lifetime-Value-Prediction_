@@ -139,5 +139,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Pranav Kumar Singh**
 🔗 [LinkedIn](https://www.linkedin.com/in/pranavkrsingh)
-📫 Email: [your-email@example.com](mailto:your-email@example.com) (update if needed)
+📫 Email: [pranavkumarsingh32@gmail.com](mailto:pranavkumarsingh32@gmail.com)
 
