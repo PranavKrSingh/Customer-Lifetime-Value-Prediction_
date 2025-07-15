@@ -14,7 +14,7 @@ This project predicts Customer Lifetime Value (CLV) based on historical e-commer
 - [How It Works](#how-it-works)
 - [Tech Stack](#tech-stack)
 - [Run Streamlit App](#run-streamlit-app)
-- [License](#license)
+
 
 
 ## ✨ Features
@@ -126,12 +126,6 @@ streamlit run streamlit_app.py
 * **Streamlit**
 * **Sentence-Transformers (optional LLM)**
 * **FAISS (optional vector store)**
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
